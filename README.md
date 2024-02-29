@@ -1,0 +1,1 @@
+This is a demo tempalate that was downloaded from bootstrapmade.com and was modified into the needs of the project. In this demo project I integrated the chatbot assistant into the demo webiste using watson AI in IBM.
